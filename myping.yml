@@ -1,0 +1,3 @@
+---
+- name: pinging to the nodes
+  ping:
